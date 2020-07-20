@@ -1,2 +1,4 @@
 # EEG_Classification_Deeplearning
-EEG Signal Classification using LSTM on various datasets
+This reposistory consists of projects on EEG Signal Classification using LSTM on various datasets.
+
+datasets used for classification are taken from  DEAP dataset,kaggle dataset etc
